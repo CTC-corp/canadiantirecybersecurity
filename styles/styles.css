@@ -1,0 +1,430 @@
+/* .container {
+    position: absolute;
+    color: white;
+} */
+
+/*
+.responsive {
+    width:100%;
+    height: auto;
+}
+
+.header {
+    position: absolute;
+    bottom: 90%;
+    left: 30%;
+    transform: translateY(-630%);
+    font-family: work-sans, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 3.5vw;
+    color: white;
+}
+
+.header_paragraph {
+    position: absolute;
+    top: 40%;
+    left: 20%;
+    right: 20%;
+    transform: translateY(-360%);
+    font-family: "Work Sans";
+    font-size:1.5vw;
+    letter-spacing: -0.5px; 
+    color: white;
+    text-align: center;
+}
+    
+.jobs_button {
+    background-color:#EE2524;  Red  
+    border: 3px solid white;
+    color: white;
+    cursor:pointer;
+    padding: 12px 25px;
+    font-size: 18px;
+    text-align:center;
+    border-radius: 40px;
+    position: absolute;
+    font-family: "Work Sans";
+    text-decoration: none;
+}
+
+.jobs_button:hover {
+    background-color: white;
+    color: red;
+    border: 2px solid red;
+    transition: 0.25s;
+}
+
+
+.about_us { 
+    position: absolute;
+    font-family: "Work Sans";
+    font-size: 3.5vw;
+    top: 50%;
+    left: 23%;
+    right: 20%;
+    transform: translateY(150%);
+    
+}
+
+.about_us_paragraph {
+    position: absolute;
+    font-family: "Work Sans";
+    letter-spacing: -0.5px;
+    top: 10px;
+    text-align: center;
+    font-size: 1.5vw;
+    left: 15%;
+    right: 15%;
+    transform: translateY(85%);
+}
+
+
+
+.culture_image {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+*/
+
+/*
+.culture_rectangle {
+    position: relative;
+    top: -100px;
+    left: 200px;
+    right: 50px ;
+    height: 580px;
+    width: 1700px;
+    background-color: #FFFFFF;
+    border-radius: 20px;
+    box-shadow: 2px 2px 10px 5px #888888;
+}
+*/
+
+/*
+.culture_title {
+    color: black;
+    font-family: work-sans, sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 50px;
+    text-align: center;
+}
+
+.culture_subtitle {
+    color: black;
+    padding-top: -20px;
+    padding-left: 60px;
+    padding-right: 60px;
+    margin-left: 500px;
+    margin-right: 500px;
+    margin-top: -25px;
+    font-family: work-sans, sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 40px;
+    text-align: center;
+}
+.culture_paragraph {
+    padding: 40px;
+    margin: 50px;
+    margin-top: -40px;
+    font-family: "Work Sans";
+    font-size: 25px;
+}
+*/
+
+/*
+.people_container {
+    padding: 40px;
+    text-align: center;
+}
+
+.people_title {
+    font-family: "Work Sans";
+    font-weight: 400;
+    font-size: 60px;
+}
+
+.people_subtitle {
+    font-family: "Work Sans";
+    font-weight: 400;
+    font-size: 40px;
+    margin-top: -20px;
+}
+*/
+
+/*
+.rectangles {
+   padding: 10px;
+    margin-left: 135px;
+    
+}
+
+.david_rectangle {
+    padding: 10px;
+    position: relative;
+    left: 100px;
+    right: 50px ;
+    height: 600px;
+    width: 457px;
+    background-color: #FFFFFF;
+    border-radius: 20px;
+    box-shadow: 2px 2px 10px 5px #888888;
+}
+.david_image {
+    position: relative;
+    width: 104%;
+    left: -10px;
+    right: -11px;
+    top: -10px;
+}
+
+.david_name {
+    font-family: work-sans, sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 30px;
+    letter-spacing: 0.5px;
+    text-align: center;
+    padding: 10px;
+    margin-top: 2px;
+}
+
+.david_title {
+    font-family: work-sans, sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 25px;
+    letter-spacing: 0.5px;
+    text-align: center;
+    padding: 10px;
+    margin-top: -30px;
+}
+
+.david_button {
+    background-color:#EE2524;  Red  
+    border: 3px solid white;
+    color: white;
+    cursor:pointer;
+    padding: 12px 25px;
+    font-size: 18px;
+    text-align:center;
+    border-radius: 40px;
+    position: relative;
+    font-family: "Work Sans";
+    left: 150px;
+}
+*/
+
+
+.working_on_container {
+    padding: 40px;
+    margin-top: -1050px
+}
+
+.working_on_title {
+    display: block;
+    font-family: "Work Sans";
+    font-weight: 400;
+    font-size: 60px;
+    text-align: center;
+}
+
+.working_on_image {
+    display: block;
+    padding: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%
+}
+
+.challenge {
+    margin-top: 250px;
+}
+
+.challenge_image {
+    width: 100%;
+    height: auto%;
+}
+
+.challenge_title {
+    display: block;
+    color: white;
+    font-family: "Work Sans";
+    font-weight: 400;
+    font-size: 55px;
+    text-align: center;
+    margin-top: -550px;
+}
+
+.challenge_subtitle {
+    display: block;
+    color: white;
+    font-family: "Work Sans";
+    font-weight: 400;
+    font-size: 55px;
+    text-align: center;
+    margin-top: -40px;
+}
+
+.numbers_image{
+    width: 80%;
+    height: auto;
+    padding: 200px;
+    margin-top: 205px;
+    margin-left: auto;
+    margin-right: auto
+}
+
+.perks_container {
+    padding: 40px;
+}
+
+.perks_title {
+    display: block;
+    font-family: "Work Sans";
+    font-weight: 400;
+    font-size: 60px;
+    text-align: center;
+}
+
+.perks_image {
+    display: block;
+    padding: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%
+    
+}
+
+.NGT_container {
+    position: relative;
+    text-align: left;
+    color: black;
+    top: 300px
+    
+}
+/* 
+.NGT_image {
+    display: block;
+    margin-left: 200px;
+    margin-right: 40px;
+    width: 60%
+    
+}
+
+.NGT_rectangle {
+    position: relative;
+    top: -500px;
+    left: 300px;
+    height: 550px;
+    width: 1000px;
+    margin-left: 500px;
+    background-color: #FEFCFC;
+    border-radius: 20px;
+    box-shadow: 2px 2px 10px 0.5px #888888;
+}
+
+.NGT_title {
+    color: black;
+    padding-top: 60px;
+    padding-bottom: -60px;
+    padding-left: 60px;
+    font-family: "Work Sans";
+    font-size: 50px;
+}
+
+.NGT_paragraph {
+    color: black;
+    padding-left: 60px;
+    padding-right: 60px;
+    top: -10px;
+    font-family: "Work Sans";
+    font-size: 25px;
+    line-height: 30px;
+    letter-spacing: -0.5px;
+}
+
+.NGT_button {
+    background-color:#EE2524; /* Red */ 
+    border: 3px solid white;
+    color: white;
+    cursor:pointer;
+    padding: 12px 25px;
+    font-size: 18px;
+    text-align:center;
+    border-radius: 40px;
+    position: relative;
+    left: 60px;
+    top: 20px;
+    font-family: "Work Sans";
+} */
+
+.apply_container {
+    padding: 450px;
+    margin-top: -350px;
+    text-align: center;
+}
+
+.apply_title {
+    font-family: "Work Sans";
+    font-weight: 400;
+    font-size: 50px;
+}
+
+.apply_subtitle {
+    font-family: "Work Sans";
+    font-weight: 400;
+    font-size: 35px;
+    margin-top: -20px;
+}
+
+.all_jobs_button {
+    background-color:#EE2524; /* Red */ 
+    border: 3px solid white;
+    color: white;
+    cursor:pointer;
+    padding: 12px 25px;
+    font-size: 18px;
+    text-align:center;
+    border-radius: 40px;
+    position: relative;
+    left: 535px;
+    top: 40px;
+    font-family: "Work Sans";
+    text-decoration: none;
+}
+
+.all_jobs_button:hover {
+    background-color: white;
+    color: red;
+    border: 2px solid red;
+    transition: 0.25s;
+}
+
+.contact_container {
+    display: block;
+}
+
+.contact_rectangle {
+    position: relative;    
+    height: 200px;
+    width: 1200px;
+    background-color: #EE2514;
+    text-align: center;
+    color: white;
+    font-family: work-sans, sans-serif;
+    font-weight: 100;
+    font-style: normal;
+    font-size: 50px; 
+    
+    margin-top: -70px;
+}
+
+footer {
+    background-color: #4D4D4F;
+    color: #4D4D4F;
+   
+}
