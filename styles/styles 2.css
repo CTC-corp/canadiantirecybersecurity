@@ -77,6 +77,7 @@ a.btn:hover{
     text-decoration: none;
     transition: 0.25s;
     margin-top:1rem;
+    text-transform: uppercase;
 }
 
 .jobs_button:hover {
@@ -86,9 +87,10 @@ a.btn:hover{
     border:none;
 }
 
+/*
 .jobs_button2 {
     background-color: #EE2524;
-    /* Red */
+     Red 
     border:none;
     color: white;
     cursor: pointer;
@@ -102,6 +104,7 @@ a.btn:hover{
     transition: 0.25s;
     margin-top:1rem;
 }
+*/
 
 .jobs_button:hover {
     background-color: white;
@@ -185,6 +188,7 @@ a.btn:hover{
     position: relative;
     font-family: "Work Sans";
     text-decoration: none;
+    text-transform: uppercase;
 
 }
 
@@ -288,6 +292,7 @@ a.btn:hover{
     font-family: "Work Sans";
     text-decoration: none;
     transition: 0.25s;
+    text-transform: uppercase;
 }
 
 .people_button:hover {
@@ -310,6 +315,7 @@ a.btn:hover{
     font-family: "Work Sans";
     text-decoration: none;
     transition: 0.25s;
+    text-transform: uppercase;
 }
 
 .people-container .modal img {
@@ -529,6 +535,7 @@ a.btn:hover{
     text-decoration: none;
     transition: 250ms all ease;
     display:inline-block;
+    text-transform: uppercase;
 }
 
 .NGT_button:hover {
@@ -836,6 +843,7 @@ footer .gray{
     .people_button {
         padding: 10px 22px;
         font-size: 14px;
+        text-transform: uppercase;
     }
 
     .people_button:hover {
@@ -855,6 +863,7 @@ footer .gray{
     border-radius: 40px;
     position: relative;
     text-decoration: none;
+    text-transform: uppercase;
 }
 
     .working-on-container {
@@ -1235,6 +1244,7 @@ footer .gray{
     }
     .NGT_button{
         margin:0 auto;
+        text-transform: uppercase;
     }
     .apply-container {
         text-align: center;
