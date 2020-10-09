@@ -612,7 +612,7 @@ hr {
 }
 .sponsors-features img {
     height: 100%;
-    width: 100%;
+    width: 80%;
     object-fit: contain;
 }
 
@@ -1299,21 +1299,11 @@ footer .gray{
 
     }
 
-    .sponsors-features1 img {
-        height: 100px;
-        width: 250px;
+    .sponsors-features img {
+        height: 100%;
+        width: 100%;
         object-fit: contain;
-        margin-bottom: 4px;
-        align-content: center;
-    }
-
-    .sponsors-features2 img {
-        height: 250px;
-        width: 220px;
-        object-fit: contain;
-        margin-right: 45px;
-        margin-top: -70px;
-        margin-bottom: 40px;
+        
     }
 
     .contact-container {
