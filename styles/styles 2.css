@@ -398,8 +398,8 @@ a.btn:hover{
 .working-on-container h2 {
     font-family: "Work Sans";
     font-weight: 400;
-    font-size: 2rem;
-    margin-top: 100px;
+    font-size: 3rem;
+    margin-top: 160px;
     margin-bottom: 50px;
 
 
@@ -468,7 +468,7 @@ a.btn:hover{
 }
 
 .perks-container {
-    margin:5rem auto 0;
+    margin:5rem auto 9rem;
     text-align: center;
 }
 
@@ -477,6 +477,7 @@ a.btn:hover{
     font-weight: 400;
     font-size: 3rem;
     margin-bottom:3rem;
+    margin-top: 60px;
 }
 
 .perks-features img {
@@ -497,7 +498,7 @@ a.btn:hover{
 }
 
 .NGT-container {
-    margin: 5rem auto 25rem;
+    margin: 5rem auto 18rem;
     position: relative;
 }
 
@@ -1336,7 +1337,6 @@ footer .gray{
     }
 
     .sponsors-container {
-        margin-top: 50px;
         text-align: center;
     }
 
